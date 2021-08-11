@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teaquila
 - 👀 I’m interested in cybersecurity ,development and fin-tech.
-- 🌱 I’m currently learning java and a litle bit of data analytics(spreadsheets and sql as of now)
-- 💞️ I’m looking to collaborate on projects good for beginners and oppurtunities to learn
+- 🌱 I’m currently learning web development along with core computer science subjects.
+- 💞️ I’m looking to collaborate on projects good for beginners.
 - 📫 How to reach me ... teaquila2001@gmail.com
 
 <!---
